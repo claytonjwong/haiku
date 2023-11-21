@@ -9,5 +9,5 @@ The haiku is a Japanese poetic form that consists of three lines, with five syll
 ```
 😵 Instead of just Me
 🤘 I'll focus my mind on We
-🙂 Then We'll be Happy
+🙂 Then We are Happy
 ```
