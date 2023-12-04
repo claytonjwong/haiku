@@ -18,7 +18,7 @@ The haiku is a Japanese poetic form that consists of three lines, with five syll
 
 ## Good Enough "as is"
 
-We are all imperfect, good-enough works-in-progress.
+We are all imperfect, good-enough works-in-progress 👍
 
 ![](GoodEnough.jpg)
 
